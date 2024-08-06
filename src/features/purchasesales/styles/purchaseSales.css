@@ -1,0 +1,14 @@
+.rectangular-box {
+    border: 1px solid #706f6f; /* Adjust border properties as needed */
+    padding: 10px; /* Adjust padding as needed */
+    border-radius: 0px; /* Optional: Add border radius for rounded corners */
+  }
+
+  .single-column {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .item {
+    margin-bottom: 10px; /* Adjust margin as needed */
+  }
